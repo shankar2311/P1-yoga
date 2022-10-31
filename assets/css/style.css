@@ -55,18 +55,23 @@ h1, h2 {
     border-bottom: 1px solid #414040;
 }
 
-/* main image */
+/* main image  and cover text */
 
 #main-outer {
     height: 600px;
     width: 100%;
     overflow: hidden;
+    position: relative;
+}
+
+#cover-text, #cover-text h2 {
+     color: #fff;
 }
 
 #main-image {
-    height: 500px;
-   max-width: 100%;
-    background: url("../images/main-image2.jpeg") no-repeat center center;
+    height: 600px;
+    width: 100%;
+    background: url("../images/main-image.jpeg") no-repeat center center;
     
     /* animates zoom effect on loading page */
     animation-name: main-zoom;
@@ -83,4 +88,19 @@ h1, h2 {
     to {
         transform: scale(1.1);
     }
+}
+
+#cover-text {
+    font-size: 120%;
+    font-family: Open sans, sans-serif;
+    width: 400px;
+    height: 200px;
+    padding-top: 40px;
+    padding-left: 10px;
+    bottom: 30px;
+    right: 150px;
+    background-color: rgba(241, 109, 107, .7);
+    position: absolute;
+
+
 }
