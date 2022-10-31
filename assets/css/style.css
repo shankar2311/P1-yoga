@@ -7,9 +7,19 @@
 }
 
 body {
-    font-family: Open sans, sans-serif;
+    font-family: Trirong, sans-serif;
     font-weight: 300;
     color: #414040
 }
 
 /* headings and logo */
+
+h1, h2 {
+    font-family: Open sans, sans-serif;
+    color: #414040;    
+}
+
+#logo {
+    float: left;
+    font-size: 300%;
+}
