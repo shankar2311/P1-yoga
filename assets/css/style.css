@@ -35,6 +35,12 @@ h1, h2 {
 
 #menu, #logo {
     line-height: 75px;
+    
+    
+}
+
+#head {
+    background-color: #ecc5c5;
 }
 
 #menu li {
