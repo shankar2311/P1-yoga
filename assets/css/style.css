@@ -109,7 +109,7 @@ h1, h2 {
 /* about section */
 
 #about {
-    height: 600px;
+    height: 500px;
     background-color: #d97d7d;
 }
 
@@ -141,7 +141,8 @@ hr{
 }
 
 .left-about-heading {
-    
+    text-align: left;
+    clear: both;
     float: left;
     width: 60%;
     line-height: 25px;
@@ -149,7 +150,8 @@ hr{
 }
 
 .right-about-heading {
-
+    text-align: right;
+    clear: both;
     float: right;
     width: 60%;
     line-height: 25px;
@@ -163,7 +165,7 @@ hr{
 }
 
 .center-about-heading {
-    
+   /* clear: both; */
     text-align: center;
     float: none;
     line-height: 25px;
@@ -171,4 +173,26 @@ hr{
 
 li {
     list-style-type: none;
+}
+
+/* footer */
+
+footer {
+    height: 150px;
+    
+}
+
+.social-networks {
+    text-align: center;
+}
+
+.social-networks > li {
+       display: inline;
+}
+
+.social-networks i {
+    font-size: 180%;
+    margin: 1%;
+    padding: 5%;
+    color: #414040;
 }
