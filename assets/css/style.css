@@ -113,20 +113,21 @@ h1, h2 {
 }
 
 #left-about {
-    padding-top: 30px;
+    padding-top: 20px;
     width: 33%;
     float: left;
     
 }
 
 #right-about {
-    padding-top: 30px;
+    padding-top: 20px;
     width: 33%;
     float: right;
+    
 }
 
 #center-about {
-    padding-top: 30px;
+    padding-top: 20px;
     width: 33%;
     margin: 0 auto;
 }
@@ -141,7 +142,7 @@ hr{
     clear: both;
     float: right;
     width: 60%;
-    line-height: 30px;
+    line-height: 25px;
     
 }
 
@@ -149,6 +150,22 @@ hr{
     clear: both;
     float: left;
     width: 60%;
-    line-height: 30px;
+    line-height: 25px;
 }
 
+#intro {
+    text-align: center;
+    margin: 20px 0;
+    font-size: 300%;
+}
+
+.center-about-heading {
+    clear: both;
+    text-align: center;
+    
+    line-height: 25px;
+}
+
+li {
+    list-style-type: none;
+}
