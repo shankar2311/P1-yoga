@@ -176,25 +176,18 @@ h1, h2 {
     color: #998d8d;
 }
 
-#brief h3 {
-    text-align: center;
-    margin: 20px 0;
-    font-size: 150%;
-    
-}
-
 #left-brief {
     width: 50%;
     float: left;
     padding-top: 30px;
-    background-color: blue;
+    
 }
 
 #right-brief {
     width: 50%;
     float: right;
     padding-top: 30px;
-    background-color: green;
+    
 }
 /* about section */
 
