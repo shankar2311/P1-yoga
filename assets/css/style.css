@@ -121,7 +121,7 @@ h1, h2 {
     margin-left: 24px;
 }
 
-/* limbs image for techniques */
+/* limbs image and image text for techniques */
 
 
 
@@ -133,6 +133,30 @@ h1, h2 {
     overflow: hidden;
 } 
 
+#image-text, #image-text h2 {
+    color: #414040;
+}
+
+#image-text {
+    font-size: 140%;
+    font-family: Open sans, sans-serif;
+    text-transform: uppercase;
+    font-weight: bold;
+    
+
+    width: 400px;
+    height: 100px;
+
+    padding-top: 20px;
+    padding-left: 30px;
+
+    bottom: 0px;
+    right: 70px;
+
+    background-color: rgba(236, 240, 244, 0.6);
+
+    position: absolute;
+}
 /* about section */
 
 #about {
