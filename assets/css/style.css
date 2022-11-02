@@ -9,7 +9,8 @@
 body {
     font-family: Trirong, sans-serif;
     font-weight: 300;
-    color: #414040
+    color: #414040;
+    background-color: #ecc5c5;
 }
 
 /* headings and logo */
@@ -119,6 +120,18 @@ h1, h2 {
     margin-top: 8%;
     margin-left: 24px;
 }
+
+/* limbs image for techniques */
+
+
+
+#limbs-image {
+    height: 700px;
+    width: 100%;
+    background: url("../images/limbs-image.jpg") no-repeat center center;
+    background-size: cover;
+    overflow: hidden;
+} 
 
 /* about section */
 
