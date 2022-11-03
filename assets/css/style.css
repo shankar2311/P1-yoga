@@ -455,7 +455,7 @@ footer {
 @media screen and (max-width: 1200px) {
     #brief {
         width: 65%;
-        height: 1500px;
+        height: 2000px;
         margin: 0 auto;
     }
 
@@ -470,3 +470,15 @@ footer {
     }
 }
     
+/* for medium screen sizes from 950px wide and down */
+
+@media screen and max(max-width: 950px) {
+    
+    #menu {
+        clear: left;
+        float: left;
+        margin-left: 30px;
+        margin-bottom: 20px;
+        line-height: 25px;
+    }
+}
