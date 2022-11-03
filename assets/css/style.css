@@ -183,6 +183,36 @@ h1, h2 {
     
 }
 
+.left-brief-heading {
+     clear: both;
+     width: 90%;
+     float: right;
+     margin-bottom: 30px;
+     line-height: 20px;
+}
+
+#right-brief {
+    width: 49%;
+    float: right;
+    padding-top: 30px;
+    
+}
+
+.right-brief-heading {
+     clear: both;
+     width: 90%;
+     float: left;
+     margin-bottom: 30px;
+     line-height: 20px;
+}
+
+.right-brief-heading h2 {
+    text-align: center;
+}
+
+.right-brief-heading p {
+    text-align: right;
+}
 
 #pose-image {
     height: 400px;
@@ -416,3 +446,16 @@ footer {
     background-color: #fafafa;
    
 }
+
+/* media queries */
+
+/* for larger to medium screens size from 1200px wide and down 
+
+@media screen and (max-width: 1200px) {
+    #brief {
+        width: 65%;
+        height: 1200px;
+        margin: 0 auto;
+    }
+}*/
+    
