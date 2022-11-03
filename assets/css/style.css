@@ -192,6 +192,10 @@ h1, h2 {
      line-height: 20px;
 }
 
+.left-brief-heading h2 {
+    text-align: center;
+}
+
 #right-brief {
     width: 49%;
     float: right;
@@ -455,7 +459,7 @@ footer {
 @media screen and (max-width: 1200px) {
     #brief {
         width: 65%;
-        height: 2000px;
+        height: 1200px;
         margin: 0 auto;
     }
 
@@ -472,7 +476,7 @@ footer {
     
 /* for medium screen sizes from 950px wide and down */
 
-@media screen and max(max-width: 950px) {
+@media screen and (max-width: 950px) {
     
     #menu {
         clear: left;
@@ -480,5 +484,29 @@ footer {
         margin-left: 30px;
         margin-bottom: 20px;
         line-height: 25px;
+    }
+
+    #image-text {
+        left: 0;
+    }
+
+    #brief {
+        width: 90%;
+        height: 1200px;
+        margin: 0 auto;
+    }
+
+    .left-brief-heading, .right-brief-heading {
+        width: inherit;
+    }
+
+    .left-brief-heading h2, .right-brief-heading h2 {
+        width: 100%;
+        text-align: center;
+    }
+
+    .left-brief-heading p, .right-brief-heading p {
+        text-align: center;
+        padding: 0 20px;
     }
 }
