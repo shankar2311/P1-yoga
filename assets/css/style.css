@@ -501,11 +501,11 @@ footer {
         } 
         
     }
-/* for larger to medium screens size from 1000px wide and down */
+/* for larger to medium screens size from 950px wide and down */
 
 /* technique page */
 
-@media screen and (max-width: 1000px) {
+@media screen and (max-width: 950px) {
 
    
 
