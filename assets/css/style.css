@@ -471,7 +471,36 @@ footer {
         padding: 0;
     }
  } 
- 
+
+ /* for medium screen sizes from 600px wide and down */
+      
+    @media screen and (max-width:600px) {
+
+        #cover-text {
+            left: 0;
+        }
+
+        #about {
+            width: 90%;
+            height: 1000px;
+            margin: 0 auto;
+        }
+
+        .left-about-heading, .right-about-heading {
+            width: inherit;
+        }
+
+        .left-about-heading h2, .right-about-heading h2 {
+            width: 100%;
+            text-align: center;
+        }
+
+        .left-about-heading p, .right-about-heading p {
+            text-align: center;
+            padding: 0 20px;
+        } 
+        
+    }
 /* for larger to medium screens size from 1000px wide and down */
 
 @media screen and (max-width: 1000px) {
@@ -510,7 +539,7 @@ footer {
         float: left;
         margin-left: 30px;
         margin-bottom: 20px;
-        line-height: 25px;
+        line-height: 30px;
     }
 
     #image-text {
@@ -519,7 +548,7 @@ footer {
 
     #brief {
         width: 90%;
-        height: 1200px;
+        height: 1000px;
         margin: 0 auto;
     }
 
