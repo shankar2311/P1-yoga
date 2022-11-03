@@ -15,9 +15,10 @@ body {
 
 /* headings and logo */
 
-h1, h2 {
+h1,
+h2 {
     font-family: Open sans, sans-serif;
-    color: #414040;    
+    color: #414040;
 }
 
 #logo {
@@ -34,10 +35,11 @@ h1, h2 {
     float: right;
 }
 
-#menu, #logo {
+#menu,
+#logo {
     line-height: 75px;
-    
-    
+
+
 }
 
 #head {
@@ -70,11 +72,12 @@ h1, h2 {
     width: 100%;
     overflow: hidden;
     position: relative;
-    
+
 }
 
-#cover-text, #cover-text h2 {
-     color: #414040;
+#cover-text,
+#cover-text h2 {
+    color: #414040;
 }
 
 #main-image {
@@ -83,7 +86,7 @@ h1, h2 {
     background: url("../images/main-image.jpeg") no-repeat center center;
     background-size: cover;
     overflow: hidden;
-    
+
     /* animates zoom effect on loading page */
     animation-name: main-zoom;
     animation-duration: 5s;
@@ -93,9 +96,10 @@ h1, h2 {
 /* creates the level of zoom for main image */
 
 @keyframes main-zoom {
-    from{
+    from {
         transform: scale(1);
     }
+
     to {
         transform: scale(1.1);
     }
@@ -106,11 +110,11 @@ h1, h2 {
     font-family: Open sans, sans-serif;
     width: 400px;
     height: 150px;
-    padding-top: 40px;
-    padding-left: 40px;
+    padding-top: 30px;
+    padding-left: 30px;
     bottom: 30px;
-    right: 150px;
-    background-color: rgba(227, 170, 169, 0.7);
+    right: 30px;
+    background-color: rgba(244, 236, 236, 0.427);
     position: absolute;
 
 
@@ -131,7 +135,7 @@ h1, h2 {
     background: url("../images/limbs-image.jpg") no-repeat center center;
     background-size: cover;
     overflow: hidden;
-} 
+}
 
 /*#image-text, #image-text h2 {
     color: #414040;
@@ -142,7 +146,7 @@ h1, h2 {
     font-family: Open sans, sans-serif;
     text-transform: uppercase;
     font-weight: bold;
-    
+
 
     width: 400px;
     height: 100px;
@@ -165,7 +169,7 @@ h1, h2 {
     width: 100%;
     height: 700px;
     background-color: #ecc5c5;
-    
+
 
 }
 
@@ -181,15 +185,15 @@ h1, h2 {
     width: 49%;
     float: left;
     padding-top: 30px;
-    
+
 }
 
 .left-brief-heading {
-     clear: both;
-     width: 90%;
-     float: right;
-     margin-bottom: 30px;
-     line-height: 20px;
+    clear: both;
+    width: 90%;
+    float: right;
+    margin-bottom: 30px;
+    line-height: 20px;
 }
 
 .left-brief-heading h2 {
@@ -200,15 +204,15 @@ h1, h2 {
     width: 49%;
     float: right;
     padding-top: 30px;
-    
+
 }
 
 .right-brief-heading {
-     clear: both;
-     width: 90%;
-     float: left;
-     margin-bottom: 30px;
-     line-height: 20px;
+    clear: both;
+    width: 90%;
+    float: left;
+    margin-bottom: 30px;
+    line-height: 20px;
 }
 
 .right-brief-heading h2 {
@@ -222,75 +226,75 @@ h1, h2 {
 #pose-image {
     height: 400px;
     width: 100%;
-    background:url("../images/pose-image.jpg") no-repeat center center;
+    background: url("../images/pose-image.jpg") no-repeat center center;
     background-size: cover;
     overflow: hidden;
     float: left;
-} 
+}
 
 #pose2-image {
     height: 400px;
     width: 100%;
-    background:url("../images/pose2-image.jpg") no-repeat center center;
+    background: url("../images/pose2-image.jpg") no-repeat center center;
     background-size: cover;
     overflow: hidden;
     float: left;
-} 
+}
 
 #pose4-image {
     height: 400px;
     width: 100%;
-    background:url("../images/pose4-image.jpg") no-repeat center center;
+    background: url("../images/pose4-image.jpg") no-repeat center center;
     background-size: cover;
     overflow: hidden;
     float: left;
-} 
+}
 
 #pose6-image {
     height: 400px;
     width: 100%;
-    background:url("../images/pose6-image.jpg") no-repeat center center;
+    background: url("../images/pose6-image.jpg") no-repeat center center;
     background-size: cover;
     overflow: hidden;
     float: left;
-} 
+}
 
 
 #pose1-image {
     height: 400px;
     width: 100%;
-    background:url("../images/pose1-image.jpg") no-repeat center center;
+    background: url("../images/pose1-image.jpg") no-repeat center center;
     background-size: cover;
     overflow: hidden;
     float: right;
-} 
+}
 
 #pose3-image {
     height: 400px;
     width: 100%;
-    background:url("../images/pose3-image.jpg") no-repeat center center;
+    background: url("../images/pose3-image.jpg") no-repeat center center;
     background-size: cover;
     overflow: hidden;
     float: right;
-} 
+}
 
 #pose5-image {
     height: 400px;
     width: 100%;
-    background:url("../images/pose5-image.jpg") no-repeat center center;
+    background: url("../images/pose5-image.jpg") no-repeat center center;
     background-size: cover;
     overflow: hidden;
     float: right;
-} 
+}
 
 #pose7-image {
     height: 400px;
     width: 100%;
-    background:url("../images/pose7-image.jpg") no-repeat center center;
+    background: url("../images/pose7-image.jpg") no-repeat center center;
     background-size: cover;
     overflow: hidden;
     float: right;
-} 
+}
 
 
 /* about section */
@@ -306,15 +310,15 @@ h1, h2 {
     padding-top: 20px;
     width: 33%;
     float: left;
-    
-    
+
+
 }
 
 #right-about {
     padding-top: 20px;
     width: 33%;
     float: right;
-    
+
 }
 
 #center-about {
@@ -323,7 +327,7 @@ h1, h2 {
     margin: 0 auto;
 }
 
-hr{
+hr {
     border-top: 2px solid #414040;
     width: 100%;
     margin: 5px 0;
@@ -355,7 +359,7 @@ hr{
 }
 
 .center-about-heading {
-   
+
     text-align: center;
     float: none;
     line-height: 25px;
@@ -365,15 +369,15 @@ hr{
 
 footer {
     height: 150px;
-    
+
 }
 
 .social-networks {
     text-align: center;
 }
 
-.social-networks > li {
-       display: inline;
+.social-networks>li {
+    display: inline;
 }
 
 .social-networks i {
@@ -386,22 +390,22 @@ footer {
 /* form section */
 
 .form-section {
-      clear: left;
-      background:url("../images/contact-image.jpg") no-repeat center center;
-      background-size: cover;
-      background-position: center;
-      height: 600px;
+    clear: left;
+    background: url("../images/contact-image.jpg") no-repeat center center;
+    background-size: cover;
+    background-position: center;
+    height: 600px;
 
 }
 
 .form-text {
-    
+
     font-family: Open sans, sans-serif;
     text-transform: uppercase;
     background-color: rgba(236, 240, 244, 0.7);
     max-width: 400px;
-    
-    
+
+
     padding: 30px;
     bottom: 30px;
     left: 150px;
@@ -439,76 +443,77 @@ footer {
 
 .send-button:hover {
     background-color: #fafafa;
-   
+
 }
 
 /* media queries */
 
 /* for larger to medium screens size from 1200px wide and down */
 
- /* home page */
+/* home page */
 
- @media screen and (max-width: 1200px) {
+@media screen and (max-width: 1200px) {
 
-    
     #about {
         width: 65%;
         height: 1200px;
         margin: 0 auto;
     }
 
-    #left-about, #right-about {
+    #left-about,
+    #right-about {
         width: 100%;
         float: left;
         padding: 0;
         clear: both;
-      }
-    
+    }
+
     #center-about {
         clear: both;
         width: 100%;
         float: left;
         padding: 0;
     }
- } 
+}
 
- /* for medium screen sizes from 700px wide and down */
-      
-    @media screen and (max-width:700px) {
+/* for medium screen sizes from 700px wide and down */
 
-        #cover-text {
-            left: 0;
-        }
+@media screen and (max-width:700px) {
 
-        #about {
-            width: 90%;
-            height: 1000px;
-            margin: 0 auto;
-        }
-
-        .left-about-heading, .right-about-heading {
-            width: inherit;
-        }
-
-        .left-about-heading h2, .right-about-heading h2 {
-            width: 100%;
-            text-align: center;
-        }
-
-        .left-about-heading p, .right-about-heading p {
-            text-align: center;
-            padding: 0 20px;
-        } 
-        
+    #cover-text {
+        left: 0;
     }
+
+    #about {
+        width: 90%;
+        height: 1000px;
+        margin: 0 auto;
+    }
+
+    .left-about-heading,
+    .right-about-heading {
+        width: inherit;
+    }
+
+    .left-about-heading h2,
+    .right-about-heading h2 {
+        width: 100%;
+        text-align: center;
+    }
+
+    .left-about-heading p,
+    .right-about-heading p {
+        text-align: center;
+        padding: 0 20px;
+    }
+
+}
+
 /* for larger to medium screens size from 950px wide and down */
 
 /* technique page */
 
 @media screen and (max-width: 950px) {
-
-   
-
 
     #brief {
         width: 65%;
@@ -521,8 +526,9 @@ footer {
         margin: 0;
     }
 
-    #left-brief, #right-brief {
-        float:left;
+    #left-brief,
+    #right-brief {
+        float: left;
         width: 100%;
         padding: 0;
     }
@@ -531,11 +537,11 @@ footer {
         display: none;
     }
 }
-    
+
 /* for medium screen sizes from 950px wide and down */
 
 @media screen and (max-width: 950px) {
-    
+
     #menu {
         clear: left;
         float: left;
@@ -554,22 +560,25 @@ footer {
         margin: 0 auto;
     }
 
-    .left-brief-heading, .right-brief-heading {
+    .left-brief-heading,
+    .right-brief-heading {
         width: inherit;
     }
 
-    .left-brief-heading h2, .right-brief-heading h2 {
+    .left-brief-heading h2,
+    .right-brief-heading h2 {
         width: 100%;
         text-align: center;
     }
 
-    .left-brief-heading p, .right-brief-heading p {
+    .left-brief-heading p,
+    .right-brief-heading p {
         text-align: center;
         padding: 0 20px;
     }
 
     .form-text {
         left: 0;
-        
+
     }
 }
