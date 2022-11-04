@@ -139,6 +139,7 @@ h2 {
     width: 33%;
     float: left;*/
     background-color: #fafafa;
+    position: relative;
 
 
 }
@@ -148,6 +149,7 @@ h2 {
     width: 33%;
     float: right;*/
     background-color: #eed4d4;
+    position: relative;
 
 }
 
@@ -156,6 +158,7 @@ h2 {
     width: 33%;
     margin: 0 auto;*/
     background-color: #6c4a4a;
+    position: relative;
 }
 
 hr {
@@ -196,6 +199,11 @@ hr {
     float: none;
     line-height: 25px;
 }*/
+.about-box {
+    width: 33%;
+    margin: 1rem 0;
+    display: inline-block;
+}
 
 /* limbs image and image text for techniques */
 
