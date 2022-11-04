@@ -134,6 +134,10 @@ h2 {
     background-color: #ecc5c5;
 }
 
+.text-center {
+    text-align: center;
+}
+
 #left-about {
    /* padding-top: 20px;
     width: 33%;
@@ -211,6 +215,15 @@ hr {
     margin: 1rem 0;
     display: inline-block;
 }
+
+.float-left {
+    float: left;
+}
+
+.float-right {
+    float: right;
+}
+
 
 /* limbs image and image text for techniques */
 
