@@ -223,7 +223,13 @@ hr {
 .float-right {
     float: right;
 }
+ul {
+    padding: 0;
+}
 
+li {
+    list-style-type: none;
+}
 
 /* limbs image and image text for techniques */
 
