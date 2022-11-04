@@ -81,7 +81,7 @@ h2 {
 #main-image {
     height: 700px;
     width: 100%;
-    background: url("../images/main-image.jpeg") no-repeat center center;
+    background: url("../images/main-image.jpg") no-repeat center center;
     background-size: cover;
     overflow: hidden;
 
@@ -216,7 +216,7 @@ li {
     height: 100px;
 
     padding-top: 20px;
-    padding-left: 30px;
+    padding-left: 10px;
 
     bottom: 0px;
     right: 70px;
@@ -248,7 +248,7 @@ li {
     width: 49%;
     float: left;
     padding-top: 30px;
-
+    clear: both;
 }
 
 .left-brief-heading {
@@ -267,7 +267,7 @@ li {
     width: 49%;
     float: right;
     padding-top: 30px;
-
+    
 }
 
 .right-brief-heading {
