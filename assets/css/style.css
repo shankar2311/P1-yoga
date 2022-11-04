@@ -140,6 +140,8 @@ h2 {
     float: left;*/
     background-color: #fafafa;
     position: relative;
+    left: 70px;
+    top: -15px;
 
 
 }
@@ -150,6 +152,10 @@ h2 {
     float: right;*/
     background-color: #eed4d4;
     position: relative;
+    right: 70px;
+    top: -15px;
+
+    
 
 }
 
@@ -159,6 +165,7 @@ h2 {
     margin: 0 auto;*/
     background-color: #6c4a4a;
     position: relative;
+    z-index: 1;
 }
 
 hr {
