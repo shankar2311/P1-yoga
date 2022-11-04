@@ -8,7 +8,7 @@
 
 body {
     font-family: Trirong, sans-serif;
-    font-weight: 300;
+    font-weight: 400;
     color: #414040;
     background-color: #ecc5c5;
 }
@@ -157,7 +157,7 @@ h2 {
 
 #center-about {
 
-    background-color: #b49595;
+    background-color: #cfb6b6;
     position: relative;
     z-index: 1;
 }
