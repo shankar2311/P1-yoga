@@ -111,7 +111,7 @@ h2 {
     height: 150px;
 
     padding-top: 30px;
-    padding-left: 30px;
+    padding-left: 10px;
 
     bottom: 30px;
     right: 30px;
@@ -267,7 +267,7 @@ li {
     width: 49%;
     float: right;
     padding-top: 30px;
-    
+
 }
 
 .right-brief-heading {
@@ -481,27 +481,6 @@ footer {
         width: 90%;
         height: 1000px;
         margin: 0 auto;
-    }
-
-    .left-about-heading,
-    .right-about-heading {
-        width: inherit;
-    }
-
-    .left-about-heading h2,
-    .right-about-heading h2 {
-
-        text-align: center;
-    }
-
-    .left-about-heading p,
-    .right-about-heading p {
-        text-align: center;
-        padding: 20px;
-    }
-
-    .center-about-heading p {
-        padding: 20px;
     }
 
 }
