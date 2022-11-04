@@ -263,6 +263,7 @@ p {
     float: right;
     margin-bottom: 30px;
     line-height: 20px;
+    
 }
 
 .left-brief-heading h2 {
@@ -282,6 +283,7 @@ p {
     float: left;
     margin-bottom: 30px;
     line-height: 20px;
+    
 }
 
 .right-brief-heading h2 {
@@ -472,47 +474,42 @@ footer {
         width: 100%;
         float: left;
         padding: 20px;
-    }
+    } 
 }
 
-/* for medium screen sizes from 700px wide and down */
+/* for larger to medium screens size from 1030px wide and down */
 
-@media screen and (max-width:700px) {
+/* techniques page */
 
-    #cover-text {
-        left: 0;
-    }
-
-    #about {
-        width: 90%;
-        height: 1000px;
-        margin: 0 auto;
-    }
-
-}
-
-/* for larger to medium screens size from 950px wide and down */
-
-/* technique page */
-
-@media screen and (max-width: 950px) {
+@media screen and (max-width: 1030px) {
 
     #brief {
-        width: 65%;
-        height: 1000px;
+        width: 90%;
+        height: 1030px;
         margin: 0 auto;
     }
 
-    #intro {
-        padding: 30px 0;
-        margin: 0;
+    #left-brief, #right-brief {
+        width: 100%;
+        float: left;
+        padding: 0;
     }
 
-    #left-brief,
-    #right-brief {
-        float: left;
+    .left-brief-heading, .right-brief-heading {
+        text-align: center;
+        width: inherit;
+    }
+
+    .left-brief-heading h2,
+    .right-brief-heading h2 {
         width: 100%;
-        padding: 0;
+        text-align: center;
+    }
+
+    .left-brief-heading p,
+    .right-brief-heading p {
+        text-align: center;
+        padding: 0 20px;
     }
 
     hr {
@@ -536,30 +533,29 @@ footer {
         left: 0;
     }
 
-    #brief {
-        width: 90%;
-        height: 1000px;
-        margin: 0 auto;
-    }
-
-    .left-brief-heading,
-    .right-brief-heading {
-        width: inherit;
-    }
-
-    .left-brief-heading h2,
-    .right-brief-heading h2 {
-        width: 100%;
-        text-align: center;
-    }
-
-    .left-brief-heading p,
-    .right-brief-heading p {
-        text-align: center;
-        padding: 0 20px;
+    #intro {
+        padding: 30px 0;
+        margin: 0;
     }
 
     .form-text {
         left: 0;
     }
+}
+
+
+/* for medium screen sizes from 700px wide and down */
+
+@media screen and (max-width:700px) {
+
+    #cover-text {
+        left: 0;
+    }
+
+    #about {
+        width: 90%;
+        height: 1000px;
+        margin: 0 auto;
+    }
+
 }
