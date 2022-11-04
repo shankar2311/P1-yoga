@@ -138,6 +138,7 @@ h2 {
 
 .text-center {
     text-align: center;
+    line-height: 30px;
 }
 
 #left-about {
@@ -190,10 +191,15 @@ hr {
 
 ul {
     padding: 0;
+    letter-spacing: 1px;
 }
 
 li {
     list-style-type: none;
+}
+
+p {
+     letter-spacing: 1px;
 }
 
 /* limbs image and image text for techniques */
