@@ -199,7 +199,7 @@ li {
 }
 
 p {
-     letter-spacing: 1px;
+    letter-spacing: 1px;
 }
 
 /* limbs image and image text for techniques */
@@ -242,14 +242,6 @@ p {
 
 }
 
-/*#brief h2 {
-    text-align: center;
-    margin: 0;
-    font-size: 200%;
-    background-color: #414040;
-    color: #998d8d;
-}*/
-
 #left-brief {
     width: 49%;
     float: left;
@@ -263,7 +255,7 @@ p {
     float: right;
     margin-bottom: 30px;
     line-height: 20px;
-    
+
 }
 
 .left-brief-heading h2 {
@@ -283,7 +275,7 @@ p {
     float: left;
     margin-bottom: 30px;
     line-height: 20px;
-    
+
 }
 
 .right-brief-heading h2 {
@@ -474,7 +466,7 @@ footer {
         width: 100%;
         float: left;
         padding: 20px;
-    } 
+    }
 }
 
 /* for larger to medium screens size from 1030px wide and down */
@@ -489,13 +481,15 @@ footer {
         margin: 0 auto;
     }
 
-    #left-brief, #right-brief {
+    #left-brief,
+    #right-brief {
         width: 100%;
         float: left;
         padding: 0;
     }
 
-    .left-brief-heading, .right-brief-heading {
+    .left-brief-heading,
+    .right-brief-heading {
         text-align: center;
         width: inherit;
     }
