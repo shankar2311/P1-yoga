@@ -10,7 +10,7 @@ Yoga Shala is a Virtual Yoga Program which mainly focuses on Live and Online cla
 
 ### Existing Features
 
-- *Logo and Navigation Bar*
+- ***Logo and Navigation Bar***
 
     - Featured on all three pages, the full responsive navigation bar includes links to the Logo, Home page, Techniques and Sign Up page and is identical in each page to allow for easy navigation.
 
@@ -18,7 +18,7 @@ Yoga Shala is a Virtual Yoga Program which mainly focuses on Live and Online cla
 
 ![nav](assets/images/nav.png)
 
-- *The Home Page Image*
+- ***The Home Page Image***
 
     - The Home Page includes a photograph with text overlay to allow the user to see exactly for what this site would be applicable to.
 
@@ -26,7 +26,7 @@ Yoga Shala is a Virtual Yoga Program which mainly focuses on Live and Online cla
 
 ![Home page](assets/images/hero-image.png)
 
-- *About Section*
+- ***About Section***
 
     - The About section will allow the user to know more about the Yoga.
 
@@ -36,10 +36,20 @@ Yoga Shala is a Virtual Yoga Program which mainly focuses on Live and Online cla
 
 ![About](assets/images/about-image.png)
 
-- *The Footer*
+- ***The Footer***
 
     - The footer section includes links to the relevant social media sites for Yoga Shala website. The links will open to a new tab to allow easy navigation for the user.
 
     - The footer is valuable to the user as it encourages them to keep connected via social media.
 
-![Footer](assets/images/footer.png)    
+![Footer](assets/images/footer.png) 
+
+
+***Techniques Page***
+
+    - The techniques page will provide the user with supporting images and relevant information regarding different types of Yoga.
+
+    - This section is valuable to the user as they will be able to easily identify the types of Yoga and can choose the preferable one according to the user.
+
+    - The landing image in this page catches the user attention in knowing about the different types of Yoga.
+
