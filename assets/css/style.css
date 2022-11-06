@@ -73,8 +73,8 @@ h2 {
 
 }
 
-.cover-text,
-.cover-text h1 {
+#cover-text,
+#cover-text h1 {
     color: #414040;
 }
 
@@ -103,7 +103,7 @@ h2 {
     }
 }
 
-.cover-text {
+#cover-text {
     font-size: 120%;
     font-family: Open sans, sans-serif;
 
@@ -120,11 +120,6 @@ h2 {
     position: absolute;
 
 
-}
-
-.cover-text h3 {
-    margin-top: 8%;
-    margin-left: 24px;
 }
 
 /* about section */
@@ -542,7 +537,7 @@ footer {
 
 @media screen and (max-width:700px) {
 
-    .cover-text {
+    #cover-text {
         left: 0;
         width: 65%;
         padding: 30px;
