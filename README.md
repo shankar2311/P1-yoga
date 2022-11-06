@@ -53,3 +53,10 @@ Yoga Shala is a Virtual Yoga Program which mainly focuses on Live and Online cla
 
     - The landing image in this page catches the user attention in knowing about the different types of Yoga.
 
+![Techniques](assets/images/landing-image.png)
+
+***The Sign Up Page***
+
+    - This page will allow the user to get signed up to Yoga Shala. The user will be asked to submit their full name and email address.
+
+![sign up](assets/images/signup-image.png)
