@@ -33,3 +33,13 @@ Yoga Shala is a Virtual Yoga Program which mainly focuses on Live and Online cla
     - This user will see the benefits of doing Yoga. This should encourage the user to consider Yoga as their daily routine.
 
     - Shows our main goal and our commitment in helping and teaching the required techinques to users.
+
+![About](assets/images/about-image.png)
+
+- *The Footer*
+
+    - The footer section includes links to the relevant social media sites for Yoga Shala website. The links will open to a new tab to allow easy navigation for the user.
+
+    - The footer is valuable to the user as it encourages them to keep connected via social media.
+
+![Footer](assets/images/footer.png)    
