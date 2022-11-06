@@ -25,3 +25,11 @@ Yoga Shala is a Virtual Yoga Program which mainly focuses on Live and Online cla
     - This section introduces the user to Yoga Shala with an eye catching animation to grab their attention.
 
 ![Home page](assets/images/hero-image.png)
+
+- *About Section*
+
+    - The About section will allow the user to know more about the Yoga.
+
+    - This user will see the benefits of doing Yoga. This should encourage the user to consider Yoga as their daily routine.
+
+    - Shows our main goal and our commitment in helping and teaching the required techinques to users.
