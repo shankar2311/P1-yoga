@@ -81,5 +81,11 @@ Yoga Shala is a Virtual Yoga Program which mainly focuses on Live and Online cla
 
     - Accessibility
 
-![Report](assets/images/Report-image.png) 
+![Report](assets/images/report-image.png) 
+
+- ***Unfixed Bugs***
+
+    - The value of Performance shown on mobile device is 72 and on desktop is 60.
+
+![Bug](assets/images/performance.png)
 
