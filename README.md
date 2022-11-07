@@ -96,16 +96,33 @@ Yoga Shala is a Virtual Yoga Program which mainly focuses on Live and Online cla
 
     - The process to deploy the project to Github Pages are as follows:
 
-    1. Log in to GitHub.com
+1. Log in to GitHub.com
 
-    2. Select the GitHub repository and navigate to the settings.
+2. Select the GitHub repository and navigate to the settings.
 
-    3. Find the Pages tab and click on it.
+3. Find the Pages tab and click on it.
 
-    4. From the source drop-down menu, select the "Deploy from a branch".
+4. From the source drop-down menu, select the "Deploy from a branch".
 
-    5. And from the Branch menu, select the "main".
+5. And from the Branch menu, select the "main".
 
-    6. Click the "save" button, the page will be automatically refreshed.
+6. Click the "save" button, the page will be automatically refreshed.
 
-    7. A live link will be dispalyed on top of the page.
+7. A live link will be dispalyed on top of the page.
+
+
+## Credits
+
+- ***Content***
+
+    - The text from the Home page was taken from wikipedia [here](https://en.wikipedia.org/wiki/Yoga).
+
+    - For the Techniques page, some of the text was taken from healthifyme [here](https://www.healthifyme.com/blog/types-of-yoga/)  
+
+    - Layout and structure of the sign up page was influenced from love running project by Code Institute. 
+
+    - README.md file was taken from the Code Institute readme-template.
+
+    - The Fonts were taken from [Google Fonts](https://fonts.google.com/) and [fontjoy](https://fontjoy.com/)
+
+    - The icons in the footer were taken from [Font Awesome](https://fontawesome.com/)
