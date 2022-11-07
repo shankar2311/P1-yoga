@@ -77,11 +77,13 @@ Yoga Shala is a Virtual Yoga Program which mainly focuses on Live and Online cla
     - CSS
         - No errors were found when passing through the official [(Jigsaw)validator](https://jigsaw.w3.org/css-validator/validator?uri=https%3A%2F%2Fshankar2311.github.io%2FP1-yoga%2F&profile=css3svg&usermedium=all&warning=1&vextwarning=&lang=en)
 
+
 - ***Lighthouse Report***
 
     - Accessibility
 
 ![Report](assets/images/report-image.png) 
+
 
 - ***Unfixed Bugs***
 
@@ -89,3 +91,21 @@ Yoga Shala is a Virtual Yoga Program which mainly focuses on Live and Online cla
 
 ![Bug](assets/images/performance.png)
 
+
+- ***Deployment***
+
+    - The process to deploy the project to Github Pages are as follows:
+
+    1. Log in to GitHub.com
+
+    2. Select the GitHub repository and navigate to the settings.
+
+    3. Find the Pages tab and click on it.
+
+    4. From the source drop-down menu, select the "Deploy from a branch".
+
+    5. And from the Branch menu, select the "main".
+
+    6. Click the "save" button, the page will be automatically refreshed.
+
+    7. A live link will be dispalyed on top of the page.
