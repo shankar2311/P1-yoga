@@ -33,7 +33,7 @@ h2 {
     font-size: 120%;
     letter-spacing: 1px;
     float: right;
-    
+
 }
 
 #menu,
@@ -556,11 +556,6 @@ footer {
         float: left;
     }
 
-    /*#about {
-        width: 90%;
-        height: 1000px;
-        margin: 0 auto;
-    }*/
     #about {
         width: 65%;
         height: 1200px;
