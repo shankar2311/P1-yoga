@@ -62,7 +62,7 @@ Yoga Shala is a Virtual Yoga Program which mainly focuses on Live and Online cla
 ![sign up](assets/images/signup-image.png)
 
 
-## Testing
+- ***Testing***
 
     - The site works well on different browsers like Chrome, Firefox and Microsoft Edge.
 
@@ -92,7 +92,7 @@ Yoga Shala is a Virtual Yoga Program which mainly focuses on Live and Online cla
 ![Bug](assets/images/performance.png)
 
 
-## Deployment
+- ***Deployment***
 
     - The process to deploy the project to Github Pages are as follows:
 
@@ -138,10 +138,10 @@ Yoga Shala is a Virtual Yoga Program which mainly focuses on Live and Online cla
 
     - Images are taken from [pexels](https://www.pexels.com/)
 
-      - The icons in the footer were taken from [Font Awesome](https://fontawesome.com/)
+    - The icons in the footer were taken from [Font Awesome](https://fontawesome.com/)
 
 
-## Acknowledgement
+- ***Acknowledgement***
 
     - I would like to thank the people in peer-code-review on Slack who reviewed and suggested changes in my code.
 
