@@ -125,4 +125,26 @@ Yoga Shala is a Virtual Yoga Program which mainly focuses on Live and Online cla
 
     - The Fonts were taken from [Google Fonts](https://fonts.google.com/) and [fontjoy](https://fontjoy.com/)
 
-    - The icons in the footer were taken from [Font Awesome](https://fontawesome.com/)
+
+
+- ***Code***
+
+    - The Code for Home page was influenced from Coders coffeehouse by Code Institute and made required changes for my site.
+
+    - The code for Techniques page and Sign up was influenced from Love Running Project by Code Institute.
+
+
+- ***Media***
+
+    - Images are taken from [pexels](https://www.pexels.com/)
+
+      - The icons in the footer were taken from [Font Awesome](https://fontawesome.com/)
+
+
+- ***Acknowledgement***
+
+    - I would like to thank the people in peer-code-review on Slack who reviewed and suggested changes in my code.
+
+    - Very Thankfull to Code Institute Slack Community.
+
+
