@@ -61,10 +61,25 @@ Yoga Shala is a Virtual Yoga Program which mainly focuses on Live and Online cla
 
 ![sign up](assets/images/signup-image.png)
 
+
+- ***Testing***
+
+    - The site works well on different browsers like Chrome, Firefox and Microsoft Edge.
+
+    - Shown good results while testing responsiveness to different screens size.
+
+![Testing](assets/images/site-responsive.png)    
+
 - ***Validator Testing***
     - HTML
         - No errors were found when passing through the official [W3C validator](https://validator.w3.org/nu/?doc=https%3A%2F%2Fshankar2311.github.io%2FP1-yoga%2F)
 
     - CSS
         - No errors were found when passing through the official [(Jigsaw)validator](https://jigsaw.w3.org/css-validator/validator?uri=https%3A%2F%2Fshankar2311.github.io%2FP1-yoga%2F&profile=css3svg&usermedium=all&warning=1&vextwarning=&lang=en)
+
+- ***Lighthouse Report***
+
+    - Accessibility
+
+![Report](assets/images/Report-image.png) 
 
